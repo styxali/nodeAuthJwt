@@ -1,0 +1,22 @@
+{
+  "name": "meanapp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "styxali <ali.elbousklaoui@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/styxali/nodeAuthJwt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
